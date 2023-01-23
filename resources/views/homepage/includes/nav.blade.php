@@ -8,7 +8,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">Products</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#products">Products</a></li>
                         <li class="nav-item"><a class="nav-link" href="#about">About us</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
                         <li class="nav-item"><a class="nav-link btn btn-outline-warning" href="{{  url('/login')  }}">Login</a></li>
